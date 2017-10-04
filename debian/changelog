@@ -1,3 +1,10 @@
+singularity (2.3-2-mpp-a) unstable; urgency=low
+
+  * New upstream release
+
+ -- Oliver Schulz <oschulz@mpp.mpg.de>  Wed, 04 Oct 2017 14:03:06 +0200
+
+
 singularity (2.3-1) unstable; urgency=low
 
   * Lots of backend library changes to accommodate a more flexible API
