@@ -1,3 +1,9 @@
+singularity-container (2.4-1-mpp) unstable; urgency=low
+
+  * New upstream release
+
+ -- Oliver Schulz <oschulz@mpp.mpg.de>  Mon, 16 Oct 2017 10:09:10 +0200
+
 singularity-container (2.3.2-1) unstable; urgency=high
 
   * Fix for a change that Docker implemented to their registry RESTful API
