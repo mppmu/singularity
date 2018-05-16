@@ -1,3 +1,9 @@
+singularity-container (2.5.1-1~mpp~ubuntu16.04+1) unstable; urgency=medium
+
+  * MPP xenial backport
+
+ -- Oliver Schulz <oschulz@mpp.mpg.de>  Wed, 16 May 2018 16:09:35 +0200
+
 singularity-container (2.5.1) unstable; urgency=high
 
   * Corrected a permissions error when attempting to run Singularity from a
